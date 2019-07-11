@@ -1,12 +1,12 @@
 #### Instructions ####
 
-1) Compile JAVA file:
+1) Compile JAVA file, running the following command:
    - javac HelloWorld.java
    
    - 1.1) It will generate the following file:
           - HelloWorld.class
 
-2) Run/Execute JAVA file:
+2) Run/Execute JAVA file, running the following command:
    - java HelloWorld
    
    - 2.1) It will be printed the following output on the terminal:
