@@ -1,6 +1,6 @@
 #### Instructions ####
 
-1) Run/Execute the PYTHON script:
+1) Run/Execute the PYTHON script, running the following command:
    - python HelloWorld.py
 
    - 1.1) It will be printed the following output on the terminal:
