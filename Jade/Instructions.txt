@@ -1,0 +1,12 @@
+#### Instructions ####
+
+1) Compile JADE file, to generate and render the HTML file, running the command:
+   - jade HelloWorld.jade
+   
+   - 1.1) It will generate the following file:
+          - HelloWorld.html
+
+NOTE:
+- If you don't have the JADE compiler (jade) installed, you should run:
+  * sudo npm install jade -g
+  * sudo npm install pug -g
