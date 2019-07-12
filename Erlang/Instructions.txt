@@ -1,0 +1,13 @@
+#### Instructions ####
+
+1) Compile ERLANG file, running the following command:
+   - erlc helloWorld.erl
+   
+   - 1.1) It will generate the following file:
+          - helloWorld.beam
+
+2) Run/Execute ERLANG file, running the following command:   
+   - erl -run helloWorld hello_world
+
+   - 2.1) It will be printed the following output on the terminal:
+          "Hello World!!!"
