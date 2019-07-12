@@ -1,0 +1,7 @@
+#### Instructions ####
+
+1) Run/Execute the PERL, running the following command:
+   - perl HelloWorld.pl
+
+   - 1.1) It will be printed the following output on the terminal:
+          "Hello World!!!"
