@@ -1,0 +1,7 @@
+#### Instructions ####
+
+1) Run/Execute the GOSU script, running the following command:
+   - gosu HelloWorld.gsp
+
+   - 1.1) It will be printed the following output on the terminal:
+          "Hello World!!!"
