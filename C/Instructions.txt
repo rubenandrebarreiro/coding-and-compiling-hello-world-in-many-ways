@@ -1,11 +1,13 @@
 #### Instructions ####
 
-1) Compile C# (C SHARP) file, running the following command:
-   - csc HelloWorld.cs
+1) Compile C file, running the following command:
+   - gcc gcc -o HelloWorld HelloWorld.c
    
    - 1.1) It will generate the following file:
-          - HelloWorld.exe
+          - HelloWorld
 
-2) Run/Execute C# (C SHARP) file, just click in it:   
-   - 2.1) It will be printed the following output on the terminal, until you press ENTER or any key:
+2) Run/Execute C file, running the follwing command:
+   - 2.1) ./HelloWorld
+   
+   - 2.2) It will be printed the following output on the terminal:
           "Hello World!!!"

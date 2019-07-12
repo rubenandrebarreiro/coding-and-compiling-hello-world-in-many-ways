@@ -12,7 +12,7 @@
 int main() {
     
 	// Prints "Hello World!!!" to the terminal window
-    printf("Hello World!!!");
+    printf("Hello World!!!\n");
     
     return 0;
 }
