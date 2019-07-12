@@ -17,9 +17,19 @@ Type 'demo()' for some demos, 'help()' for on-line help, or
 'help.start()' for an HTML browser interface to help.
 Type 'q()' to quit R.
 
+> #
+> #
+> # Hello World in Many Programming Languages!!!
+> #
+> # Authors:
+> # @author Ruben Andre Barreiro
+> #
+> #
+>         
+> # Prints "Hello World!!!" to the terminal window
 > print("Hello World!!!")
 [1] "Hello World!!!"
 > 
 > proc.time()
    user  system elapsed 
-  0.128   0.016   0.125 
+  0.151   0.004   0.134 
