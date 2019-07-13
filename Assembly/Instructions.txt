@@ -1,0 +1,21 @@
+#### Instructions ####
+
+1) Compile ASSEMBLY file, running the following command:
+   - nasm -f elf64 HelloWorld.asm (64bit arch)
+                      or
+   - nasm -f elf HelloWorld.asm (32bit arch)
+
+   - 1.1) It will generate the following file:
+          - HelloWorld.o
+
+2) Link the ASSEMBLY object file to an executable file, running the following commnad:
+   - ld -s -o HelloWorld HelloWorld.o
+
+   - 1.1) It will generate the following file:
+          - HelloWorld
+
+3) Run/Execute ASSEMBLY file, running the follwing command:
+   - 3.1) ./HelloWorld
+   
+   - 3.2) It will be printed the following output on the terminal:
+          "Hello World!!!"
