@@ -1,5 +1,4 @@
 #!/usr/bin/perl
-#
 # Hello World in Many Programming Languages!!!
 # Authors:
 # - Ruben Andre Barreiro
