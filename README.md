@@ -1,8 +1,8 @@
 # Hello World - In Many Programming Languages
 
-* The **_Programming or Markup Languages_** addressed in this project, until the moment, as also, their respecitvely **_Compilers/Interpreters_** are the following:
+* The **_Programming or Markup/Markdown Languages_** addressed in this project, until the moment, as also, their respecitvely **_Compilers/Interpreters_** are the following:
 
-| #  |  Programming or Markup Language            |  Compiler/Interpreter  |
+| #  |  Programming or Markup/Markdown Language   |  Compiler/Interpreter  |
 |:--:|:------------------------------------------:|:----------------------:|
 | 1  | Assembly                                   | nasm                   |
 | 2  | Bash Shell Script                          | sh                     |
