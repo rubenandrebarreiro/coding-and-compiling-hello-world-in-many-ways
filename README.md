@@ -17,7 +17,7 @@
 
 [![keyword of this version no. 1](https://img.shields.io/badge/keyword-compilers-brown.svg)](https://github.com/rubenandrebarreiro/coding-and-compiling-hello-world-in-many-ways/)
 [![keyword of this version no. 2](https://img.shields.io/badge/keyword-intrepretes-brown.svg)](https://github.com/rubenandrebarreiro/coding-and-compiling-hello-world-in-many-ways/)
-[![keyword of this version no. 3](https://img.shields.io/badge/keyword-sintaxes-brown.svg)](https://github.com/rubenandrebarreiro/coding-and-compiling-hello-world-in-many-ways/)
+[![keyword of this version no. 3](https://img.shields.io/badge/keyword-sintaxis-brown.svg)](https://github.com/rubenandrebarreiro/coding-and-compiling-hello-world-in-many-ways/)
 [![keyword of this version no. 4](https://img.shields.io/badge/keyword-coding-brown.svg)](https://github.com/rubenandrebarreiro/coding-and-compiling-hello-world-in-many-ways/)
 
 [![star this repository](http://githubbadges.com/star.svg?user=rubenandrebarreiro&repo=coding-and-compiling-hello-world-in-many-ways&style=flat)](https://github.com/rubenandrebarreiro/coding-and-compiling-hello-world-in-many-ways/stargazers)
@@ -32,7 +32,7 @@
 
 ## Description
 
-A simple project based in **_Compilers and Interpreters_** for **_Programming and Markup/Markdown Languages_***. This project shows how to _code, write, compile and run/execute programs_ in different many **_Programming and Markup/Markdown Languages_**, using the commonly and basic known example of **_"Hello World!!!"_**. The goal of this project are _explain the sintaxes of the addressed programming languages, their compilance and execution model_, among many other aspects!
+A simple project based in **_Compilers and Interpreters_** for **_Programming and Markup/Markdown Languages_***. This project shows how to _code, write, compile and run/execute programs_ in different many **_Programming and Markup/Markdown Languages_**, using the commonly and basic known example of **_"Hello World!!!"_**. The goal of this project are _explain the sintaxis of the addressed programming languages, their compilance and execution model_, among many other aspects!
 
 * The **_Programming or Markup/Markdown Languages_** addressed in this project, in a _total of 50_, until the moment, as also, their respecitvely **_Compilers/Interpreters_**, are the following:
 
