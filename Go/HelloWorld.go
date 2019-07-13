@@ -7,5 +7,6 @@ package main
 import "fmt"
 
 func main() {
+    // Prints "Hello World!!!" to the terminal window
     fmt.Println("Hello World!!!")
 }
