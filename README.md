@@ -52,4 +52,4 @@
 | 46 | Zig                                        | zig                    |
 
 #### Note:
-> If you're intested in collaborate in this project, don't hesitate to contact me!
+> If you're interested in collaborate in this project, don't hesitate to contact me!
