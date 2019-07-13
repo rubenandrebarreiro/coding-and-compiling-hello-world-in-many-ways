@@ -1,6 +1,6 @@
 # Hello World - In Many Programming Languages
 
-* The **_Programming or Markup/Markdown Languages_** addressed in this project, in a _total of 50_ until the moment, as also, their respecitvely **_Compilers/Interpreters_**, are the following:
+* The **_Programming or Markup/Markdown Languages_** addressed in this project, in a _total of 50_, until the moment, as also, their respecitvely **_Compilers/Interpreters_**, are the following:
 
 | #  |  Programming or Markup/Markdown Language   |  Compiler/Interpreter  |
 |:--:|:------------------------------------------:|:----------------------:|
