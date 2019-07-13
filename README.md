@@ -1,6 +1,6 @@
 # Hello World - In Many Programming Languages
 
-* The **_Programming or Markup/Markdown Languages_** addressed in this project, until the moment, as also, their respecitvely **_Compilers/Interpreters_** are the following:
+* The **_Programming or Markup/Markdown Languages_** addressed in this project, in a _total of 50_ until the moment, as also, their respecitvely **_Compilers/Interpreters_**, are the following:
 
 | #  |  Programming or Markup/Markdown Language   |  Compiler/Interpreter  |
 |:--:|:------------------------------------------:|:----------------------:|
@@ -19,39 +19,41 @@
 | 13 | Elixir                                     | elixir                 |
 | 14 | Erlang                                     | erlc                   |
 | 15 | F# (F Sharp)                               | fsharpc                |
-| 16 | Go                                         | go                     |
-| 17 | Gosu                                       | gosu/gosuc             |
-| 18 | HTML                                       | N/A                    |
-| 19 | Haskell                                    | ghc                    |
-| 20 | Haxe                                       | haxe                   |
-| 21 | Jade                                       | jade                   |
-| 22 | Java                                       | javac                  |
-| 23 | Javascript                                 | N/A                    |
-| 24 | Julia                                      | julia                  |
-| 25 | Jupypter Notebook                          | jupyter notebook       |
-| 26 | Kotlin                                     | kotlinc                |
-| 27 | LiveScript                                 | lsc                    |
-| 28 | Lua 	                                      | luac                   |
-| 29 | MATLAB                                     | matlab                 |
-| 30 | Nim 	                                      | nim                    |
-| 31 | OCalm (Objective Caml)                     | ocamlc                 |
-| 32 | Objective-C                                | gcc                    |  
-| 33 | PHP                                        | N/A                    |
-| 34 | Pascal 	                                  | fpc                    |
-| 35 | Perl                                       | perl                   |
-| 36 | Prolog                                     | swipl                  |
-| 37 | Python                                     | python                 |
-| 38 | R                                          | Rscript                |
-| 39 | Racket                                     | raco                   |
-| 40 | Rebol                                      | rebol                  |
-| 41 | Red                                        | red                    |
-| 42 | Ruby                                       | ruby                   |
-| 43 | Rust                                       | rustc                  |
-| 44 | Scala                                      | scalac                 |
-| 45 | Swift                                      | swift                  |
-| 46 | Typescript                                 | tsc                    |
-| 47 | Visual Basic                               | vbc                    |
-| 48 | Zig                                        | zig                    |
+| 16 | Fortran                                    | f95                    |
+| 17 | Go                                         | go                     |
+| 18 | Gosu                                       | gosu/gosuc             |
+| 19 | HTML                                       | N/A                    |
+| 20 | Haskell                                    | ghc                    |
+| 21 | Haxe                                       | haxe                   |
+| 22 | Jade                                       | jade                   |
+| 23 | Java                                       | javac                  |
+| 24 | Javascript                                 | N/A                    |
+| 25 | Julia                                      | julia                  |
+| 26 | Jupypter Notebook                          | jupyter notebook       |
+| 27 | Kotlin                                     | kotlinc                |
+| 28 | LiveScript                                 | lsc                    |
+| 29 | Lua 	                                      | luac                   |
+| 30 | MATLAB                                     | matlab                 |
+| 31 | Nim 	                                      | nim                    |
+| 32 | OCalm (Objective Caml)                     | ocamlc                 |
+| 33 | Objective-C                                | gcc                    |  
+| 34 | PHP                                        | N/A                    |
+| 35 | Pascal 	                                  | fpc                    |
+| 36 | Perl                                       | perl                   |
+| 37 | PowerShell                                 | pwsh                   |
+| 38 | Prolog                                     | swipl                  |
+| 39 | Python                                     | python                 |
+| 40 | R                                          | Rscript                |
+| 41 | Racket                                     | raco                   |
+| 42 | Rebol                                      | rebol                  |
+| 43 | Red                                        | red                    |
+| 44 | Ruby                                       | ruby                   |
+| 45 | Rust                                       | rustc                  |
+| 46 | Scala                                      | scalac                 |
+| 47 | Swift                                      | swift                  |
+| 48 | Typescript                                 | tsc                    |
+| 49 | Visual Basic                               | vbc                    |
+| 50 | Zig                                        | zig                    |
 
 #### Notes:
 > 1) This is a project "on-going" and the goal it's to be continuing to grow!
