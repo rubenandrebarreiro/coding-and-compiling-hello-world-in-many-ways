@@ -50,3 +50,6 @@
 | 44 | Typescript                                 | tsc                    |
 | 45 | Visual Basic                               | vbc                    |
 | 46 | Zig                                        | zig                    |
+
+#### Note:
+> If you're intested in collaborate in this project, don't hesitate to contact me!
