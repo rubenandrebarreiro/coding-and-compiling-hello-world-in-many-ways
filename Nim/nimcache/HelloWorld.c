@@ -111,7 +111,7 @@ static N_INLINE(void, popFrame)(void) {
 }
 NIM_EXTERNC N_NOINLINE(void, NimMainModule)(void) {
 	nimfr_("HelloWorld", "HelloWorld.nim");
-	nimln_(1, "HelloWorld.nim");
+	nimln_(6, "HelloWorld.nim");
 	printf("%s\012", ((NimStringDesc*) &TM_zh9ai7aKxDLeqsbG5FgpNxA_2)? (((NimStringDesc*) &TM_zh9ai7aKxDLeqsbG5FgpNxA_2))->data:"nil");
 	fflush(stdout);
 	popFrame();
