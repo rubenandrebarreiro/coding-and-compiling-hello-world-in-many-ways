@@ -52,4 +52,5 @@
 | 46 | Zig                                        | zig                    |
 
 #### Note:
-> If you're interested in collaborate in this project, don't hesitate to contact me!
+> 1) This is a project "on-going" and the goal it's to be continue to grow!
+> 2) If you're interested in collaborate in this project, don't hesitate to contact me!
