@@ -1,0 +1,11 @@
+# Compiled source #
+###################
+/build/*
+*.exe
+!node.exe
+
+*.o
+*.so
+*.com
+*.pdb
+*.ini
