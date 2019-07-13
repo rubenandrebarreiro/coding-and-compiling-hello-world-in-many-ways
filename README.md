@@ -54,5 +54,5 @@
 | 48 | Zig                                        | zig                    |
 
 #### Notes:
-> 1) This is a project "on-going" and the goal it's to be continue to grow!
+> 1) This is a project "on-going" and the goal it's to be continuing to grow!
 > 2) If you're interested in collaborate in this project, don't hesitate to contact me!
