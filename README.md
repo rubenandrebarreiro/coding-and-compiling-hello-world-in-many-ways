@@ -12,7 +12,7 @@
 
 [![status of this version no. 1](https://img.shields.io/badge/status-completed-orange.svg)](https://github.com/rubenandrebarreiro/coding-and-compiling-hello-world-in-many-ways/)
 [![status of this version no. 2](https://img.shields.io/badge/status-final-orange.svg)](https://github.com/rubenandrebarreiro/coding-and-compiling-hello-world-in-many-ways/)
-[![status of this version no. 3](https://img.shields.io/badge/status-beta-orange.svg)](https://github.com/rubenandrebarreiro/coding-and-compiling-hello-world-in-many-ways/)
+[![status of this version no. 3](https://img.shields.io/badge/status-stable-orange.svg)](https://github.com/rubenandrebarreiro/coding-and-compiling-hello-world-in-many-ways/)
 [![status of this version no. 4](https://img.shields.io/badge/status-documented-orange.svg)](https://github.com/rubenandrebarreiro/coding-and-compiling-hello-world-in-many-ways/)
 
 [![keyword of this version no. 1](https://img.shields.io/badge/keyword-compilers-brown.svg)](https://github.com/rubenandrebarreiro/coding-and-compiling-hello-world-in-many-ways/)
