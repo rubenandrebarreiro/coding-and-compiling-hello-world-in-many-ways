@@ -1,7 +1,7 @@
 # Hello World - In Many Programming Languages
 
 | #  |  Programming or Markup Language            |  Compiler/Interpreter  |
-|----|:------------------------------------------:|-----------------------:|
+|:--:|:------------------------------------------:|:----------------------:|
 | 1  | Assembly                                   | nasm                   |
 | 2  | Bash Shell Script                          | sh                     |
 | 3  | C# (C Sharp)                               | csc                    |
