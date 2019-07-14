@@ -41,7 +41,7 @@ A simple project based in **_Compilers and Interpreters_** for **_Programming an
 | 1  | Assembly                                   | nasm                   |
 | 2  | Bash Shell Script                          | sh                     |
 | 3  | C# (C Sharp)                               | csc                    |
-| 4  | C++                                        | g++                    |
+| 4  | C++ (C Plus Plus)                          | g++                    |
 | 5  | C                                          | gcc                    |
 | 6  | COBOL                                      | cobc                   |
 | 7  | CSS (Cascade Style Sheets)                 | N/A                    |
@@ -56,7 +56,7 @@ A simple project based in **_Compilers and Interpreters_** for **_Programming an
 | 16 | Fortran                                    | f95                    |
 | 17 | Go                                         | go                     |
 | 18 | Gosu                                       | gosu/gosuc             |
-| 19 | HTML                                       | N/A                    |
+| 19 | HTML (HyperText Markup Language)           | N/A                    |
 | 20 | Haskell                                    | ghc                    |
 | 21 | Haxe                                       | haxe                   |
 | 22 | Jade                                       | jade                   |
@@ -67,11 +67,11 @@ A simple project based in **_Compilers and Interpreters_** for **_Programming an
 | 27 | Kotlin                                     | kotlinc                |
 | 28 | LiveScript                                 | lsc                    |
 | 29 | Lua 	                                      | luac                   |
-| 30 | MATLAB                                     | matlab                 |
+| 30 | MATLAB (MATrix LABoratory)                 | matlab                 |
 | 31 | Nim 	                                      | nim                    |
 | 32 | OCalm (Objective Caml)                     | ocamlc                 |
 | 33 | Objective-C                                | gcc                    |  
-| 34 | PHP                                        | N/A                    |
+| 34 | PHP (Hypertext Preprocessor)               | N/A                    |
 | 35 | Pascal 	                                  | fpc                    |
 | 36 | Perl                                       | perl                   |
 | 37 | PowerShell                                 | pwsh                   |
@@ -92,3 +92,7 @@ A simple project based in **_Compilers and Interpreters_** for **_Programming an
 #### Notes:
 > 1) This is a project "on-going" and the goal it's to be continuing to grow!
 > 2) If you're interested in collaborate in this project, don't hesitate to contact me!
+
+> "If you don't understand interpreters, you can still write programs. You can even be a competent programmer. But you can't be a master."
+
+– **_Hal Abelson_** (_Massachusetts Institute of Technology (MIT)_ & _Institute of Electrical and Electronics Engineers (IEEE)_)
