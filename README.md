@@ -61,7 +61,7 @@ A simple project based in **_Compilers and Interpreters_** for **_Programming an
 | 21 | Haxe                                       | haxe                   |
 | 22 | Jade                                       | jade                   |
 | 23 | Java                                       | javac                  |
-| 24 | Javascript                                 | N/A                    |
+| 24 | JavaScript                                 | N/A                    |
 | 25 | Julia                                      | julia                  |
 | 26 | Jupypter Notebook                          | jupyter notebook       |
 | 27 | Kotlin                                     | kotlinc                |
