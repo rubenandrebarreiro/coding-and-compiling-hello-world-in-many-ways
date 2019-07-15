@@ -32,7 +32,7 @@
 
 ## Description
 
-A simple project based in **_Compilers and Interpreters_** for **_Programming and Markup/Markdown Languages_***. This project shows how to _code, write, compile and run/execute programs_ in different many **_Programming and Markup/Markdown Languages_**, using the commonly known and basic example of **_"Hello World!!!"_**. The goal of this project are _explain the sintaxis of the addressed programming languages, their compilance and execution model_, among many other aspects!
+A simple project based in **_Compilers and Interpreters_** for **_Programming and Markup/Markdown Languages_***. This project shows how to _code, write, compile and run/execute programs_ in different many **_Programming and Markup/Markdown Languages_**, using the commonly known and basic example of **_"Hello World!!!"_**. The goal of this project are _explain the sintaxis of the addressed programming languages, their compliance and execution model_, among many other aspects!
 
 * The **_Programming or Markup/Markdown Languages_** addressed in this project, in a _total of 50_, until the moment, as also, their respecitvely **_Compilers/Interpreters_**, are the following:
 
