@@ -36,58 +36,58 @@ A simple project based in **_Compilers and Interpreters_** for **_Programming an
 
 * The **_Programming or Markup/Markdown Languages_** addressed in this project, in a _total of 50_, until the moment, as also, their respecitvely **_Compilers/Interpreters_**, are the following:
 
-| #  |  Programming or Markup/Markdown Language   |  Compiler/Interpreter  |
-|:--:|:------------------------------------------:|:----------------------:|
-| 1  | Assembly                                   | nasm                   |
-| 2  | Bash Shell Script                          | sh                     |
-| 3  | C# (C Sharp)                               | csc                    |
-| 4  | C++ (C Plus Plus)                          | g++                    |
-| 5  | C                                          | gcc                    |
-| 6  | COBOL                                      | cobc                   |
-| 7  | CSS (Cascade Style Sheets)                 | N/A                    |
-| 8  | CUDA (Compute Unified Device Architecture) | nvcc                   |
-| 9  | Chapel                                     | chpl                   |
-| 10 | CoffeeScript                               | coffee                 |
-| 11 | Crystal                                    | crystal                |
-| 12 | D                                          | rdmd                   |
-| 13 | Elixir                                     | elixir                 |
-| 14 | Erlang                                     | erlc                   |
-| 15 | F# (F Sharp)                               | fsharpc                |
-| 16 | Fortran                                    | f95                    |
-| 17 | Go                                         | go                     |
-| 18 | Gosu                                       | gosu/gosuc             |
-| 19 | HTML (HyperText Markup Language)           | N/A                    |
-| 20 | Haskell                                    | ghc                    |
-| 21 | Haxe                                       | haxe                   |
-| 22 | Jade                                       | jade                   |
-| 23 | Java                                       | javac                  |
-| 24 | JavaScript                                 | N/A                    |
-| 25 | Julia                                      | julia                  |
-| 26 | Jupypter Notebook                          | jupyter notebook       |
-| 27 | Kotlin                                     | kotlinc                |
-| 28 | LiveScript                                 | lsc                    |
-| 29 | Lua 	                                      | luac                   |
-| 30 | MATLAB (MATrix LABoratory)                 | matlab                 |
-| 31 | Nim 	                                      | nim                    |
-| 32 | OCalm (Objective Caml)                     | ocamlc                 |
-| 33 | Objective-C                                | gcc                    |  
-| 34 | PHP (Hypertext Preprocessor)               | N/A                    |
-| 35 | Pascal 	                                  | fpc                    |
-| 36 | Perl                                       | perl                   |
-| 37 | PowerShell                                 | pwsh                   |
-| 38 | Prolog                                     | swipl                  |
-| 39 | Python                                     | python                 |
-| 40 | R                                          | Rscript                |
-| 41 | Racket                                     | raco                   |
-| 42 | Rebol                                      | rebol                  |
-| 43 | Red                                        | red                    |
-| 44 | Ruby                                       | ruby                   |
-| 45 | Rust                                       | rustc                  |
-| 46 | Scala                                      | scalac                 |
-| 47 | Swift                                      | swift                  |
-| 48 | Typescript                                 | tsc                    |
-| 49 | Visual Basic                               | vbc                    |
-| 50 | Zig                                        | zig                    |
+| #  |  Programming or Markup/Markdown Language   |  Compiler/Interpreter  | Folder                    | Presentation/Slides    |
+|:--:|:------------------------------------------:|:----------------------:|:-------------------------:|:----------------------:|
+| 1  | Assembly                                   | nasm                   | [Click here]()            | [Click here]()         |
+| 2  | Bash Shell Script                          | sh                     | [Click here]()            | [Click here]()         |
+| 3  | C# (C Sharp)                               | csc                    | [Click here]()            | [Click here]()         |
+| 4  | C++ (C Plus Plus)                          | g++                    | [Click here]()            | [Click here]()         |
+| 5  | C                                          | gcc                    | [Click here]()            | [Click here]()         |
+| 6  | COBOL                                      | cobc                   | [Click here]()            | [Click here]()         |
+| 7  | CSS (Cascade Style Sheets)                 | N/A                    | [Click here]()            | [Click here]()         |
+| 8  | CUDA (Compute Unified Device Architecture) | nvcc                   | [Click here]()            | [Click here]()         |
+| 9  | Chapel                                     | chpl                   | [Click here]()            | [Click here]()         |
+| 10 | CoffeeScript                               | coffee                 | [Click here]()            | [Click here]()         |
+| 11 | Crystal                                    | crystal                | [Click here]()            | [Click here]()         |
+| 12 | D                                          | rdmd                   | [Click here]()            | [Click here]()         |
+| 13 | Elixir                                     | elixir                 | [Click here]()            | [Click here]()         |
+| 14 | Erlang                                     | erlc                   | [Click here]()            | [Click here]()         |
+| 15 | F# (F Sharp)                               | fsharpc                | [Click here]()            | [Click here]()         |
+| 16 | Fortran                                    | f95                    | [Click here]()            | [Click here]()         |
+| 17 | Go                                         | go                     | [Click here]()            | [Click here]()         |
+| 18 | Gosu                                       | gosu/gosuc             | [Click here]()            | [Click here]()         |
+| 19 | HTML (HyperText Markup Language)           | N/A                    | [Click here]()            | [Click here]()         |
+| 20 | Haskell                                    | ghc                    | [Click here]()            | [Click here]()         |
+| 21 | Haxe                                       | haxe                   | [Click here]()            | [Click here]()         |
+| 22 | Jade                                       | jade                   | [Click here]()            | [Click here]()         |
+| 23 | Java                                       | javac                  | [Click here]()            | [Click here]()         |
+| 24 | JavaScript                                 | N/A                    | [Click here]()            | [Click here]()         |
+| 25 | Julia                                      | julia                  | [Click here]()            | [Click here]()         |
+| 26 | Jupypter Notebook                          | jupyter notebook       | [Click here]()            | [Click here]()         |
+| 27 | Kotlin                                     | kotlinc                | [Click here]()            | [Click here]()         |
+| 28 | LiveScript                                 | lsc                    | [Click here]()            | [Click here]()         |
+| 29 | Lua 	                                      | luac                   | [Click here]()            | [Click here]()         |
+| 30 | MATLAB (MATrix LABoratory)                 | matlab                 | [Click here]()            | [Click here]()         |
+| 31 | Nim 	                                      | nim                    | [Click here]()            | [Click here]()         |
+| 32 | OCalm (Objective Caml)                     | ocamlc                 | [Click here]()            | [Click here]()         |
+| 33 | Objective-C                                | gcc                    | [Click here]()            | [Click here]()         |
+| 34 | PHP (Hypertext Preprocessor)               | N/A                    | [Click here]()            | [Click here]()         |
+| 35 | Pascal 	                                  | fpc                    | [Click here]()            | [Click here]()         |
+| 36 | Perl                                       | perl                   | [Click here]()            | [Click here]()         |
+| 37 | PowerShell                                 | pwsh                   | [Click here]()            | [Click here]()         |
+| 38 | Prolog                                     | swipl                  | [Click here]()            | [Click here]()         |
+| 39 | Python                                     | python                 | [Click here]()            | [Click here]()         |
+| 40 | R                                          | Rscript                | [Click here]()            | [Click here]()         |
+| 41 | Racket                                     | raco                   | [Click here]()            | [Click here]()         |
+| 42 | Rebol                                      | rebol                  | [Click here]()            | [Click here]()         |
+| 43 | Red                                        | red                    | [Click here]()            | [Click here]()         | 
+| 44 | Ruby                                       | ruby                   | [Click here]()            | [Click here]()         |
+| 45 | Rust                                       | rustc                  | [Click here]()            | [Click here]()         |
+| 46 | Scala                                      | scalac                 | [Click here]()            | [Click here]()         |
+| 47 | Swift                                      | swift                  | [Click here]()            | [Click here]()         |
+| 48 | Typescript                                 | tsc                    | [Click here]()            | [Click here]()         |
+| 49 | Visual Basic                               | vbc                    | [Click here]()            | [Click here]()         |
+| 50 | Zig                                        | zig                    | [Click here]()            | [Click here]()         |
 
 #### Notes:
 > 1) This is a project "on-going" and the goal it's to be continuing to grow!
