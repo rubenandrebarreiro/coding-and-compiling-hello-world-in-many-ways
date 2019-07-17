@@ -1,0 +1,80 @@
+#### Instructions ####
+
+1) Compile Objective-C file, running the following command:
+   - gcc $(gnustep-config --objc-flags) -o HelloWorld HelloWorld.m $(gnustep-config --base-libs)
+   
+   - 1.1) It will generate the following files:
+          - HelloWorld.d and HelloWorld.m
+
+2) Run/Execute C file, running the follwing command:
+   - 2.1) ./HelloWorld
+   
+   - 2.2) It will be printed the following output on the terminal:
+          2019-07-12 16:54:59.463 HelloWorld[17615:17615] Hello World!!!
+
+NOTES:
+- See the following tutorial:
+  
+
+	In Ubuntu, Install GNU Objective-C Compiler and the Gnu-step Development Libraries 
+	with the following command:
+
+	////////////////////////////////////////////////////////////////////
+
+		sudo apt-get –y install gobjc gnustep gnustep-devel
+
+		Now type the Program given below and save the file with .m extension.
+
+		For Example say, hello.m
+
+		// 'Hello World' Program in Objective-C
+		#import <Foundation/Foundation.h>
+
+		int main (int argc, const char * argv[])
+		{
+		    NSAutoreleasePool *pool = [[NSAutoreleasePool alloc] init];
+		    NSLog (@"Hello, World!");
+		    [pool drain];
+		    return 0;
+		}
+
+		Now Compile the Program with the following command:
+
+		gcc $(gnustep-config --objc-flags) -o hello hello.m $(gnustep-config --base-libs)
+
+		Or you could write this sample Makefile:
+
+		CC := gcc
+		GNUSTEP_LIBS = $(shell gnustep-config --base-libs)
+		GNUSTEP_FLAGS = $(shell gnustep-config --objc-flags)
+
+		.PHONY = clean all
+
+		PROGS = hello class_hello
+
+		all: $(PROGS)
+
+		%.o: %.m
+		    $(CC) $(GNUSTEP_FLAGS) -c $^
+
+		hello: hello.o
+		    $(CC) -o $@ $^ $(GNUSTEP_LIBS)
+
+		clean: 
+		    rm $(PROGS) *.o
+
+		And run:
+
+		make
+
+		Now Run the executable with the following command:
+
+		./hello
+
+		OUTPUT -> 2014-11-14 15:47:32.628 hello[2786] Hello, World!
+
+		The Format of the Output is something like this-
+
+		<DATE> <TIME> <NAME  OF THE EXECUTABLE[NUMBER]> <ACTUAL OUTPUT>
+
+	////////////////////////////////////////////////////////////////////

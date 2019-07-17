@@ -1,0 +1,13 @@
+#### Instructions ####
+
+1) Compile HASKELL file, running the following command:
+   - ghc -o HelloWorld HelloWorld.hs
+   
+   - 1.1) It will generate the following files:
+          - HelloWorld.exe, HelloWorld.hi and HelloWorld.o
+
+2) Run/Execute GO file, running the following command:   
+   - ./HelloWorld
+
+   - 2.1) It will be printed the following output on the terminal, until you press ENTER or any key:
+          "Hello World!!!"

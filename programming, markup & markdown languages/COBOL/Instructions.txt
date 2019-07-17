@@ -1,0 +1,13 @@
+#### Instructions ####
+
+1) Compile COBOL file, running the following command:
+   - cobc -free -x -o HelloWorld-exe HelloWorld 
+   
+   - 1.1) It will generate the following file:
+          - HelloWorld-exe
+
+2) Run/Execute COBOL file, running the follwing command:
+   - 2.1) ./HelloWorld-exe
+   
+   - 2.2) It will be printed the following output on the terminal:
+          "Hello World!!!"

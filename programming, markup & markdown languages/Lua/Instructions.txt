@@ -1,0 +1,17 @@
+#### Instructions ####
+
+1) Compile LUA file, running the command:
+   - luac -o HelloWorld.luac HelloWorld.lua 
+                      or
+   - luac -o HelloWorld HelloWorld.lua
+
+   - 1.1) It will generate the following file:
+          - HelloWorld.luac and HelloWorld
+
+2) Run/Execute LUA file, running the following command:
+   - lua HelloWorld.luac
+              or
+   - lua HelloWorld
+   
+   - 2.1) It will be printed the following output on the terminal:
+          "Hello World!!!"

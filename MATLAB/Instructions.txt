@@ -1,7 +1,0 @@
-#### Instructions ####
-
-1) Compile and Run/Execute MATLAB file, running the following command:
-   - matlab -nosplash -nodesktop -r 'try; HelloWorld; catch; end;quit();'
-
-   - 2.1) It will be shown a window where it will be printed the following output on the terminal:
-          "Hello World!!!"

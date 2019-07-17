@@ -1,7 +1,0 @@
-#### Instructions ####
-
-1) Run/Execute the REBOL script, running the following command:
-   - rebol HelloWorld.r
-
-   - 1.1) It will be printed the following output on the terminal:
-          "Hello World!!!"

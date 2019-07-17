@@ -1,0 +1,10 @@
+{"compile":[
+["/home/rubenandrebarreiro/Documents/hello-world-in-many-programming-languages/Nim/nimcache/HelloWorld.c", "gcc -c  -w  -I/usr/lib/nim -o /home/rubenandrebarreiro/Documents/hello-world-in-many-programming-languages/Nim/nimcache/HelloWorld.o /home/rubenandrebarreiro/Documents/hello-world-in-many-programming-languages/Nim/nimcache/HelloWorld.c"],
+["/home/rubenandrebarreiro/Documents/hello-world-in-many-programming-languages/Nim/nimcache/stdlib_system.c", "gcc -c  -w  -I/usr/lib/nim -o /home/rubenandrebarreiro/Documents/hello-world-in-many-programming-languages/Nim/nimcache/stdlib_system.o /home/rubenandrebarreiro/Documents/hello-world-in-many-programming-languages/Nim/nimcache/stdlib_system.c"]
+],
+"link":[
+"/home/rubenandrebarreiro/Documents/hello-world-in-many-programming-languages/Nim/nimcache/HelloWorld.o",
+"/home/rubenandrebarreiro/Documents/hello-world-in-many-programming-languages/Nim/nimcache/stdlib_system.o"
+],
+"linkcmd": "gcc   -o /home/rubenandrebarreiro/Documents/hello-world-in-many-programming-languages/Nim/HelloWorld  /home/rubenandrebarreiro/Documents/hello-world-in-many-programming-languages/Nim/nimcache/HelloWorld.o /home/rubenandrebarreiro/Documents/hello-world-in-many-programming-languages/Nim/nimcache/stdlib_system.o    -ldl"
+}

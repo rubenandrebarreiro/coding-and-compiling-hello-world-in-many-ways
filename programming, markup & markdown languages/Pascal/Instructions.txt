@@ -1,0 +1,11 @@
+#### Instructions ####
+
+1) Compile PASCAL file, running the following command:
+   - fpc HelloWorld HelloWorld.pas
+   
+   - 1.1) It will generate the following file:
+          - HelloWorld.exe
+
+2) Run/Execute PASCAL file, just click in it:   
+   - 2.1) It will be printed the following output on the terminal, until you press ENTER or any key:
+          "Hello World!!!"

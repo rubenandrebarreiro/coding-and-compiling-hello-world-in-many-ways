@@ -1,0 +1,13 @@
+#### Instructions ####
+
+1) Compile F# (F SHARP) file, running the following command:
+   - fsharpc HelloWorld.fs
+   
+   - 1.1) It will generate the following file:
+          - HelloWorld.Core.dll and HelloWorld.exe
+
+2) Run/Execute F# (F SHARP) file, running the following command:   
+   - ./HelloWorld.exe
+
+   - 2.1) It will be printed the following output on the terminal:
+          "Hello World!!!"

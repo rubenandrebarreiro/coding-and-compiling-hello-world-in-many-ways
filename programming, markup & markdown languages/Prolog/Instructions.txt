@@ -1,0 +1,7 @@
+#### Instructions ####
+
+1) Run/Execute the PROLOG script, running the following command:
+   - swipl -q -l HelloWorld.pl 
+
+   - 1.1) It will be printed the following output on the terminal:
+          "Hello World!!!"

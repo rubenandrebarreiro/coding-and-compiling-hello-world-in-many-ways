@@ -1,0 +1,7 @@
+#### Instructions ####
+
+1) Run/Execute the D script, running the following command:
+   - rdmd HelloWorld.d
+
+   - 1.1) It will be printed the following output on the terminal:
+          "Hello World!!!"

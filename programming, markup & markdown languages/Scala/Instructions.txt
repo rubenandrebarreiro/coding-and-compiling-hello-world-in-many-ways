@@ -1,0 +1,13 @@
+#### Instructions ####
+
+1) Compile SCALA file, running the command:
+   - scalac HelloWorld.scala
+   
+   - 1.1) It will generate the following file:
+          - HelloWorld.class and HelloWorld$.class
+
+2) Run/Execute SCALA file, running the following command:
+   - scala HelloWorld
+   
+   - 2.1) It will be printed the following output on the terminal:
+          "Hello World!!!"

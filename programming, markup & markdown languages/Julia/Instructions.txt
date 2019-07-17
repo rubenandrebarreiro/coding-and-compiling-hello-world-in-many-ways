@@ -1,0 +1,7 @@
+#### Instructions ####
+
+1) Run/Execute the JULIA script, running the following command:
+   - julia HelloWorld.jl
+
+   - 1.1) It will be printed the following output on the terminal:
+          "Hello World!!!"
