@@ -1,0 +1,13 @@
+#### Instructions ####
+
+1) Compile GROOVY file, running the following command:
+   - groovyc HelloWorld.groovy
+   
+   - 1.1) It will generate the following file:
+          - HelloWorld.class
+
+2) Run/Execute GROOVY file, running the following command:
+   - groovy HelloWorld
+   
+   - 2.1) It will be printed the following output on the terminal:
+          "Hello World!!!"
