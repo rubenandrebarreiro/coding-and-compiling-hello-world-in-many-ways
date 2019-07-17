@@ -1,0 +1,11 @@
+#### Instructions ####
+
+1) Run/Execute the TEX (LATEX) script, running the following command:
+   - latex HelloWorld.tex
+
+   - 1.1) It will generate the following files:
+          - HelloWorld.aux, HelloWorld.div and HelloWorld.log
+
+2) Run/Execute TEX (LATEX) file, just click in the file "HelloWorld.dvi":   
+   - 2.1) It will be opened a document with the following output written in it:
+          "Hello World!!!"
