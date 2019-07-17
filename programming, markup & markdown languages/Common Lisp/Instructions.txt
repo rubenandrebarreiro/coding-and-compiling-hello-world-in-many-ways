@@ -1,0 +1,13 @@
+#### Instructions ####
+
+1) Run/Execute the COMMON LISP script, running the following command:
+   - clisp -c HelloWorld.lisp
+
+   - 1.1) It will generate the following files:
+          - HelloWorld.fas and HelloWorld.lib
+
+2) Run/Execute COMMON LISP file, running the following command:
+   - clisp HelloWorld
+   
+   - 2.1) It will be printed the following output on the terminal:
+          "Hello World!!!"

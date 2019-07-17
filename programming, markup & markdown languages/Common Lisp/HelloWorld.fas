@@ -1,0 +1,11 @@
+(|SYSTEM|::|VERSION| '(20100807.))
+#0Y_ #0Y |CHARSET|::|UTF-8|
+#Y(#:|1 6 (FORMAT T "Hello World!!!")-1|
+   #18Y(00 00 00 00 00 00 00 00 20 01 DA 6B 01 33 01 15 19 01)
+   (#Y(#:|1 6 (FORMAT T "Hello World!!!")-1-1|
+       #23Y(00 00 00 00 01 00 00 00 21 17 00 10 00 DB B2 38 02 31 95 A1 11 19
+            03)
+       (|SYSTEM|::|*FORMAT-CS*| "Hello World!!!")
+       (|COMMON-LISP|::|T| |COMMON-LISP|::|T| |COMMON-LISP|::|T|))
+    |COMMON-LISP|::|*STANDARD-OUTPUT*|)
+   (|COMMON-LISP|::|T| |COMMON-LISP|::|T| |COMMON-LISP|::|T|))
